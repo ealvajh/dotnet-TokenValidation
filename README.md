@@ -5,3 +5,4 @@ Esta es una aplicación .Net de tipo Web API en la cuál se implementó un proce
 ##### Características:
 - .Net Framework 4.8 
 - DbFirst
+- Visual Studio 2022
